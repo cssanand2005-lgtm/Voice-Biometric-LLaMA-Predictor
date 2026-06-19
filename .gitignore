@@ -1,0 +1,12 @@
+__pycache__/
+.env
+*.pyc
+.cache/
+app.py
+app.py.txt
+main.py
+model.py
+model.py.txt
+scraper.py
+scraper.py.txt
+requirements.txt
